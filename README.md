@@ -1,6 +1,5 @@
 # ResearchMind 🔬 - Multi-Agent AI Research Assistant
 
-![ResearchMind](https://img.shields.io/badge/Status-Active-brightgreen.svg)
 ![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-FF4B4B.svg)
 ![LangChain](https://img.shields.io/badge/LangChain-Integration-32a852.svg)
